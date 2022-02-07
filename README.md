@@ -22,7 +22,7 @@ https://keithmurph.github.io/passwordgenerator/
  - [Installation](#howToInstall)
  - [Usage](#usage)
  - [Credits](#credits)
- - [Licence](#license)
+ - [License](#license)
  - [Questions](#questions)
 
  ## Installation
